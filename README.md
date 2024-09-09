@@ -1,6 +1,6 @@
 ## Hi there 👋
 🔭 I’m currently working on ...
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello I am Nehali Bhalerao)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Nehali;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **neha-2000/neha-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
