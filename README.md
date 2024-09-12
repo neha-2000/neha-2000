@@ -16,10 +16,10 @@ Glad to see you here ❤️
 
 
 </p>
-<a href="https://drive.google.com/file/d/1s3k3T7IIVklWrDJfmIOR-9Fyqj_UwS20/view?usp=sharing">Resume</a>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
  
+- <a href="https://drive.google.com/file/d/1s3k3T7IIVklWrDJfmIOR-9Fyqj_UwS20/view?usp=sharing">Resume Link</a>
 - 👩‍💻 I am a Software Developer at Tribetayling Pvt Ltd
 - 🎓 M.Sc. (Computer Applications) | Pune University | 2022
 - 💻 Experienced in React JS, Next JS, Three JS, Java, and Full-stack Development
