@@ -16,7 +16,7 @@ Glad to see you here ❤️
 
 
 </p>
-
+<a href="https://drive.google.com/file/d/1s3k3T7IIVklWrDJfmIOR-9Fyqj_UwS20/view?usp=sharing">Resume</a>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Connect)](https://git.io/typing-svg)
  
